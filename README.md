@@ -1,4 +1,4 @@
-# Soccer Game
+# Soccer Manager 2023
 This is a simple console-based soccer game developed using Java. In this game, the user can create a team, view their team, play games, buy and sell players, check their coins, and train their players.
 
 # How to Play
